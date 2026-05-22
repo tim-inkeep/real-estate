@@ -30,9 +30,10 @@ sources:
   - ../external-sources/yale-urban-sprawl-walkability-demand.md
   - ../external-sources/walkable-urban-investment-potential.md
   - ../external-sources/brookings-housing-supply-problem-2025.md
+  - ../external-sources/los-angeles-housing-forecast-2026.md
+  - ../external-sources/foot-traffic-ahead-walkable-urbanism-2023.md
   - ./hudson-county-nj-housing.md
   - ./top-performing-housing-markets-and-urban-form.md
-  - ./los-angeles-housing.md
 ---
 
 ## Question
