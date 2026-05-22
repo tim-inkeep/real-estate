@@ -32,6 +32,7 @@ sources:
   - ../external-sources/brookings-housing-supply-problem-2025.md
   - ./hudson-county-nj-housing.md
   - ./top-performing-housing-markets-and-urban-form.md
+  - ./los-angeles-housing.md
 ---
 
 ## Question
@@ -204,3 +205,4 @@ For a venture-backed real-estate app, do not pick markets only by home-price app
 
 - [Top-Performing U.S. Housing Markets & Urban Form — 2026 Outlook](./top-performing-housing-markets-and-urban-form.md) — supply-inelasticity thesis, walkability confound, 27-source national framing.
 - [Hudson County, NJ deep-dive](./hudson-county-nj-housing.md) — active submarket application; Jersey City vs. Hoboken supply experiment (integrated in Finding 7 above).
+- [Los Angeles deep-dive](./los-angeles-housing.md) — split-signal constrained coastal market: Zillow hot-list strength, Reventure downside, and micro-market/operating-cost caveats.

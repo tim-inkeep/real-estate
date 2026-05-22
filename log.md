@@ -79,3 +79,13 @@ What to log:
 - Updated [research/real-estate-metro-demand-supply-urban-forms](./research/real-estate-metro-demand-supply-urban-forms.md): added **Active Research** tracker, **Finding 7** (Hudson County supply vs. walkability), expanded Related Research links, and frontmatter `sources` for sibling research docs.
 - Cross-linked from [research/hudson-county-nj-housing](./research/hudson-county-nj-housing.md) (provisional, in progress).
 - Armed a background monitor on `research/` to wake the agent when provisional siblings change and fold new findings into the metro synthesis.
+
+
+
+
+## 2026-05-22: New research — Los Angeles deep-dive
+
+- Created [research/los-angeles-housing](./research/los-angeles-housing.md) — applies the national 2026 framework to Los Angeles as a split-signal constrained coastal market.
+- Updated [research/real-estate-metro-demand-supply-urban-forms](./research/real-estate-metro-demand-supply-urban-forms.md) with a related-research link and source-list entry for the LA page.
+- Sources cited (7): [Los Angeles forecast](./external-sources/los-angeles-housing-forecast-2026.md), [Zillow for-sale hot markets](./external-sources/zillow-hottest-for-sale-markets-2026.md), [Zillow rental hot markets](./external-sources/zillow-hottest-rental-markets-summer-2026.md), [Reventure forecast splits](./external-sources/reventure-zillow-2026-forecast-splits.md), [Realtor.com rent report](./external-sources/realtor-march-2026-rent-report.md), [Foot Traffic Ahead](./external-sources/foot-traffic-ahead-walkable-urbanism-2023.md), [Brookings supply study](./external-sources/brookings-housing-supply-problem-2025.md).
+- Key read: LA needs micro-market analysis rather than a simple winner/loser label — Zillow flags for-sale and rental strength while Reventure's public metro comparison is negative.
