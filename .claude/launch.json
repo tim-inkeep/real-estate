@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "open-knowledge-ui",
+      "runtimeExecutable": "/Applications/Open Knowledge.app/Contents/Resources/cli/bin/ok.sh",
+      "runtimeArgs": [
+        "ui"
+      ],
+      "port": 39848,
+      "autoPort": true
+    }
+  ]
+}

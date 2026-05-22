@@ -1,0 +1,3 @@
+[mcp_servers.open-knowledge]
+command = "/usr/local/bin/ok"
+args = [ "mcp" ]
